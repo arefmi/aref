@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @arefmirzazadeh
 - 👀 I’m interested in Technology
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
